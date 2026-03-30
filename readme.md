@@ -201,11 +201,7 @@ curl -X POST "http://localhost:8000/shorten" \
 
 ---
 
-## 📄 License
 
-MIT License
-
----
 
 ## 👨‍💻 Author
 
